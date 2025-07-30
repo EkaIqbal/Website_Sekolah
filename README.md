@@ -1,4 +1,4 @@
-# 🌐 Website Sekolah SDN Curahnongko 02
+# 🌐 Website Sekolah SD
 
 Website ini adalah sistem informasi resmi untuk SDN Curahnongko 02. Dibangun menggunakan Laravel 12, Tailwind CSS, dan Flowbite, website ini menyediakan informasi seperti:
 
