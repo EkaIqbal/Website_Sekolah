@@ -5,7 +5,7 @@ Website ini adalah sistem informasi resmi untuk SDN Curahnongko 02. Dibangun men
 - Profil Sekolah
 - Visi,Misi dan Struktur Sekolah
 - Galeri Kegiatan
-- Berita & Pengumuman
+- Berita
 - Kontak, Lokasi dan sosial media sekolah
 
 ## 🚀 Teknologi yang Digunakan
@@ -20,8 +20,16 @@ Website ini adalah sistem informasi resmi untuk SDN Curahnongko 02. Dibangun men
 - CRUD konten dinamis
 - Upload galeri & berita
 
-## 📸 Screenshot
-_(Tambahkan nanti kalau sudah ada gambar UI)_
+## 📸 Tampilan Website
+
+### Halaman Beranda
+![Halaman Beranda](screenshots/Beranda.png)
+
+### Halaman Galeri
+![Halaman Galeri](screenshots/Galeri.jpg)
+
+### Halaman Berita
+![Halaman Galeri](screenshots/Berita.jpg)
 
 ## 📄 Lisensi
 Proyek ini dirilis di bawah lisensi MIT.
