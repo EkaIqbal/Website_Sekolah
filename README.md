@@ -20,16 +20,5 @@ Website ini adalah sistem informasi resmi untuk SDN Curahnongko 02. Dibangun men
 - CRUD konten dinamis
 - Upload galeri & berita
 
-## 📸 Tampilan Website
-
-### Halaman Beranda
-![Halaman Beranda](screenshots/Beranda.png)
-
-### Halaman Galeri
-![Halaman Galeri](screenshots/Galeri.jpg)
-
-### Halaman Berita
-![Halaman Galeri](screenshots/Berita.jpg)
-
 ## 📄 Lisensi
 Proyek ini dirilis di bawah lisensi MIT.
